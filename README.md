@@ -15,8 +15,7 @@
 ---
 
 ## 🔥 My GitHub Stats
-![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hitesh0611&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Hitesh0611&theme=radical)
+![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hitesh0611&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh0611&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Hitesh0611&theme=dark)
 
