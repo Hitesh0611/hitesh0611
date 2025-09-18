@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hitesh!
 
-🔹 **Full Stack Developer | Web Developer**  
+🔹 **Full Stack Developer | MERN STACK Developer**  
 🔹 Passionate about **React.js & Web Development**  
 🔹 Love building cool **web apps & interactive projects** 🚀  
 
